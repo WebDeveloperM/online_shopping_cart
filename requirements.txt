@@ -1,0 +1,6 @@
+Django
+Pillow
+psycopg2
+gunicorn
+django-heroku   
+dj_database-url
