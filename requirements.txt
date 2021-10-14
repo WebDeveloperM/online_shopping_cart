@@ -3,4 +3,4 @@ Pillow
 psycopg2
 gunicorn
 django-heroku   
-dj_database-url
+dj-database-url
